@@ -35,7 +35,7 @@ namespace OTBSolution
     }
 
     /// <summary>
-    /// Drive class for console application.
+    /// Driver class for console application.
     /// </summary>
     public class Program
     {
