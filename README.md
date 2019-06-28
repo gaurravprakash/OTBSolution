@@ -26,7 +26,7 @@ The algorithm is simple. For each job in the job list -
 
 # Job execution handler
 
-I am using simulating a job execution handler by simply printing the job id. The program also returns a string built by concatenating the job id's in the order of their expected execution.
+I am simulating a job execution handler by simply printing the job id. The program also returns a string built by concatenating the job id's in the order of their expected execution.
 
 # Unit tests
 
