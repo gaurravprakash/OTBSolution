@@ -22,8 +22,7 @@ The algorithm is simple. For each job in the job list -
 4. Iterate over pending jobs collection in reverse order. </br>
   a. If IsExecuted is false, execute the job. </br>
   b. Remove this item from pending jobs collection.
-5. Go to step 1.
-
+  
 # Job execution handler
 
 I am simulating a job execution handler by simply printing the job id. The program also returns a string built by concatenating the job id's in the order of their expected execution.
